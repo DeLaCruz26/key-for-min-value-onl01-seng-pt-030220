@@ -3,9 +3,9 @@
 
 def key_for_min_value(name_hash)
    name_hash.each { |name, value|
-      if value = 1
+      if value 1
         puts :name
       else
-        puts
+        puts :value
       end }
 end
