@@ -9,5 +9,5 @@ def key_for_min_value(name_hash)
         puts :value
       end }
 end
-name_hash[:value]
+name_hash[value]
 end
