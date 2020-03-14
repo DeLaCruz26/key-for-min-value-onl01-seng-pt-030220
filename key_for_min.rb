@@ -6,6 +6,6 @@ def key_for_min_value(name_hash)
       if value < 1
         puts :key
       else
-        puts :keys
+        puts :value
       end }
 end
